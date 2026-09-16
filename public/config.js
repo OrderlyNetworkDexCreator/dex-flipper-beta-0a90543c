@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "flipper_staging",
   "VITE_ORDERLY_BROKER_NAME": "Flipper Beta",
   "VITE_BROKER_EOA_ADDRESS": "0x9de6c1cac4a247550f7e031b7524de3b7c628fe3",
   "VITE_DISABLE_MAINNET": "false",
